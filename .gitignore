@@ -1,0 +1,8 @@
+.env
+
+# File/doc2.txt
+# File
+File/
+
+
+.gitignore : add any file into it to ignore
